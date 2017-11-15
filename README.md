@@ -1,6 +1,6 @@
 ## Visualizaciones clase de Hipertexto y lenguaje digital 
 
-Estas son las visualizaciones que trabajamos en la clase de hoy [editor on GitHub](https://github.com/marialejanavarrete/Mi-reportaje-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estas son las visualizaciones que trabajamos en la clase de hoy [enlace de prueba](https://github.com/marialejanavarrete/Mi-reportaje-/edit/master/README.md) Nuestro objetivo es mostrar mejor la información.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
