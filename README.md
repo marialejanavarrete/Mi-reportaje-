@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xjvxUPouep8Zdcc4KetLdW6ybIL9-2UDMgrWy4DfSRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ```markdown
 Syntax highlighted code block
 
@@ -30,7 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xjvxUPouep8Zdcc4KetLdW6ybIL9-2UDMgrWy4DfSRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Support or Contact
 
