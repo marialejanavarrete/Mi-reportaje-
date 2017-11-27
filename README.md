@@ -11,7 +11,7 @@ Estas son las visualizaciones que trabajamos en la clase de Hipertexto y lenguaj
 <iframe id="datawrapper-chart-JgB61" src="//datawrapper.dwcdn.net/JgB61/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["JgB61"]={},window.datawrapper["JgB61"].embedDeltas={"100":550,"200":475,"300":425,"400":400,"500":400,"600":400,"700":375,"800":375,"900":375,"1000":375},window.datawrapper["JgB61"].iframe=document.getElementById("datawrapper-chart-JgB61"),window.datawrapper["JgB61"].iframe.style.height=window.datawrapper["JgB61"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["JgB61"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("JgB61"==b)window.datawrapper["JgB61"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 
-### La ruta de mi vida
+### La ruta de mi vida 
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04899129faffc9865eaa9de51fa31546/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
 
