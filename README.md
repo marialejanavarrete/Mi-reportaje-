@@ -1,6 +1,6 @@
 ## Visualizaciones clase de Hipertexto y lenguaje digital 
 
-Estas son las visualizaciones que trabajamos en la clase de Hipermedia y lenguaje digital. Nuestro objetivo es mostrar mejor la información.
+Estas son las visualizaciones que trabajamos en la clase de Hipertexto y lenguaje digital. Nuestro objetivo es mostrar mejor la información.
 
 ### Mi línea de tiempo
 
