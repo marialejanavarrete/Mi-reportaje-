@@ -25,3 +25,8 @@ La herramienta Infogram nos ayuda a visibilizar datos de forma rápida y sencill
 ### ¿Cómo están las utilidades de los medios de comunicación?
 
 <iframe width="655" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrUWragSKsgP6VuwSz0U6bihDOXgktOC0twBQuPgNwoLvf-YySzHcyiDpyrZQ9qmaLeNcHS_A2hxq1/pubchart?oid=1402026167&amp;format=interactive"></iframe>
+
+### Un comparativo de las tendencias políticas 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
+
