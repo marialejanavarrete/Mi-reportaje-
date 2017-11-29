@@ -21,3 +21,7 @@ Estas son las visualizaciones que trabajamos en la clase de Hipertexto y lenguaj
 La herramienta Infogram nos ayuda a visibilizar datos de forma rápida y sencilla. 
 
 <script id="infogram_0_2d53aca7-fbf7-4348-86b5-d56b172931e7" title="Gastos campañas presidenciales 2014" src="https://e.infogram.com/js/dist/embed.js?deA" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2d53aca7-fbf7-4348-86b5-d56b172931e7" style="color:#989898!important;text-decoration:none!important;" target="_blank">Gastos campañas presidenciales 2014</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+### ¿Cómo están las utilidades de los medios de comunicación?
+
+<iframe width="1020.5" height="795.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrUWragSKsgP6VuwSz0U6bihDOXgktOC0twBQuPgNwoLvf-YySzHcyiDpyrZQ9qmaLeNcHS_A2hxq1/pubchart?oid=1402026167&amp;format=interactive"></iframe>
