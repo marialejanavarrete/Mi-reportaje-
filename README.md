@@ -33,3 +33,7 @@ La herramienta Infogram nos ayuda a visibilizar datos de forma rápida y sencill
 ### Paraísos fiscales
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1Yk12-p4ccFpIfEwI5k5S_6aKgYhuCXOM" width="640" height="480"></iframe>
+
+### Ejercicio de Carto
+
+<iframe width="100%" height="520" frameborder="0" src="https://marialejanavarrete.carto.com/builder/7a72d85d-9f66-4746-b341-db3b14be042f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
