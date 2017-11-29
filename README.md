@@ -30,3 +30,6 @@ La herramienta Infogram nos ayuda a visibilizar datos de forma rápida y sencill
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
 
+### Paraísos fiscales
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1Yk12-p4ccFpIfEwI5k5S_6aKgYhuCXOM" width="640" height="480"></iframe>
