@@ -24,4 +24,4 @@ La herramienta Infogram nos ayuda a visibilizar datos de forma rápida y sencill
 
 ### ¿Cómo están las utilidades de los medios de comunicación?
 
-<iframe width="1020.5" height="795.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrUWragSKsgP6VuwSz0U6bihDOXgktOC0twBQuPgNwoLvf-YySzHcyiDpyrZQ9qmaLeNcHS_A2hxq1/pubchart?oid=1402026167&amp;format=interactive"></iframe>
+<iframe width="655" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrUWragSKsgP6VuwSz0U6bihDOXgktOC0twBQuPgNwoLvf-YySzHcyiDpyrZQ9qmaLeNcHS_A2hxq1/pubchart?oid=1402026167&amp;format=interactive"></iframe>
